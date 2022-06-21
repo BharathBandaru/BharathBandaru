@@ -8,8 +8,7 @@ I'm a DevOps Engineer from India. I like spending time and exploring more on Dev
 -🌱 I’m currently preparing for Kubernetes certifications.
 
 ⚡ Domains
--DevOps![javascript](https://user-images.githubusercontent.com/107413271/174878252-ed046cf6-0abf-446c-a174-9fbb1d86f51a.png)
-
+-DevOps
 -Cloud
    
 ⚡ Tech Stack
