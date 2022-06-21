@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello there! My name is Bharath. 👋 😎
 
-<!--
-**BharathBandaru/BharathBandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer from India. I like spending time and exploring more on DevOps tools like Docker, Kubernetes, Terraform,Git etc. When I am not working I prefer watching videos on youtube and any other online streaming platforms.
 
-Here are some ideas to get you started:
+⚡ Updates
+-🔭 I’m currently learning Helm.
+-🌱 I’m currently preparing for Kubernetes certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Domains
+-DevOps
+-Cloud
+   
+⚡ Tech Stack
+
+Git GitHub GitLab Linux AWS Docker Kubernetes Jenkins Terraform 
