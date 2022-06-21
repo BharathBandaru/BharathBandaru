@@ -4,11 +4,12 @@ I'm a DevOps Engineer from India. I like spending time and exploring more on Dev
 
 ⚡ Updates
 
--🔭 I’m currently learning Helm.
+-🔭 I’m currently learning Helm.               
 -🌱 I’m currently preparing for Kubernetes certifications.
 
 ⚡ Domains
--DevOps
+-DevOps![javascript](https://user-images.githubusercontent.com/107413271/174878252-ed046cf6-0abf-446c-a174-9fbb1d86f51a.png)
+
 -Cloud
    
 ⚡ Tech Stack
